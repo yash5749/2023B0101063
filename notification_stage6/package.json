@@ -1,0 +1,9 @@
+{
+  "name": "notification_stage6",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "../logging_middleware/node_modules/.bin/tsc -p tsconfig.json",
+    "stage6": "../logging_middleware/node_modules/.bin/ts-node src/stage6.ts"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-06-09T07:32:11.045Z",
+  "totalFetched": 20,
+  "topCount": 10,
+  "topNotifications": [
+    {
+      "rank": 1,
+      "id": "09f61fa0-c531-4278-9cc2-a2de717c6f7f",
+      "type": "Placement",
+      "message": "Meta Platforms Inc. hiring",
+      "timestamp": "2026-06-09 03:31:09",
+      "weight": 3
+    },
+    {
+      "rank": 2,
+      "id": "5e8e4a49-4f6c-4bd7-8c42-a423fef81c30",
+      "type": "Placement",
+      "message": "TSMC hiring",
+      "timestamp": "2026-06-09 01:30:52",
+      "weight": 3
+    },
+    {
+      "rank": 3,
+      "id": "912d4f03-5608-4c73-89b0-7929f76657a3",
+      "type": "Placement",
+      "message": "Marvell Technology Inc. hiring",
+      "timestamp": "2026-06-08 17:27:45",
+      "weight": 3
+    },
+    {
+      "rank": 4,
+      "id": "51545457-57d3-4aaa-913b-c0430b44d417",
+      "type": "Placement",
+      "message": "Eli Lilly and Company hiring",
+      "timestamp": "2026-06-08 15:26:37",
+      "weight": 3
+    },
+    {
+      "rank": 5,
+      "id": "75ced1a4-5fa1-4f80-9677-68d741c54d5d",
+      "type": "Placement",
+      "message": "Broadcom Inc. hiring",
+      "timestamp": "2026-06-08 07:26:54",
+      "weight": 3
+    },
+    {
+      "rank": 6,
+      "id": "6ff908bd-0476-4d2c-9e3d-437292714cd5",
+      "type": "Result",
+      "message": "mid-sem",
+      "timestamp": "2026-06-09 06:00:18",
+      "weight": 2
+    },
+    {
+      "rank": 7,
+      "id": "b5f14aa6-3c3b-473a-a029-f9a3bdecdffb",
+      "type": "Result",
+      "message": "end-sem",
+      "timestamp": "2026-06-09 05:31:26",
+      "weight": 2
+    },
+    {
+      "rank": 8,
+      "id": "ed40e2c1-13d9-47ef-a8e5-6e9af1a8d628",
+      "type": "Result",
+      "message": "internal",
+      "timestamp": "2026-06-09 00:28:53",
+      "weight": 2
+    },
+    {
+      "rank": 9,
+      "id": "6c8b722e-a735-4ece-8ec7-94811d4c9044",
+      "type": "Result",
+      "message": "internal",
+      "timestamp": "2026-06-08 17:30:35",
+      "weight": 2
+    },
+    {
+      "rank": 10,
+      "id": "7491acb7-7631-4943-85b5-298798273cca",
+      "type": "Result",
+      "message": "internal",
+      "timestamp": "2026-06-08 13:57:11",
+      "weight": 2
+    }
+  ]
+}
