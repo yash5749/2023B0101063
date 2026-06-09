@@ -1,0 +1,6 @@
+{
+  "/api/notifications/route": "app/api/notifications/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/priority/page": "app/priority/page.js"
+}
